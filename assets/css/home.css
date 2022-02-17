@@ -75,12 +75,28 @@ url("../img/ai.structure.svg");
   width: 100vw;
   height: 100vh;
 }
+ .div5867 img{
  
+ }
+ .div867{
+   display: flex;
+ }
  
+ .div867 img{
+width: 70%;
+margin-left: 100px;
+ }
+ .div6667 img{
+width: 40%;
+ }
+ 
+ .ai5366{
+   display: flex;
+ }
 .felomee-tagline{
   font-size: 45px;
   text-transform: lowercase  ;
-  line-height: 65px;
+  line-height: 55px;
   font-family: 'Poppins', sans-serif ;  
   font-weight: 1000;    
   z-index: 99; 
